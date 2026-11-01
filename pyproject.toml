@@ -1,0 +1,8 @@
+[project]
+name = "gnrl-polar-codec"
+version = "0.1.0"
+requires-python = ">=3.14"
+dependencies = [
+    "numba>=0.68.1",
+    "numpy>=2.5.4",
+]
